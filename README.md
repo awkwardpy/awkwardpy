@@ -27,8 +27,7 @@ I'm not just a student; I'm an aspiring tech enthusiast and coding wizard based 
 
 🚀 **GitHub Stars:** If you're into open source, check out my GitHub profile, where I contribute to projects that make an impact.
 
-📫 **Email:** Feel free to drop me an email at pankaj@awkwardpy.com. Let's build something awesome together!
+📫 **Email:** Feel free to drop me an email at awkwardpy@gmail.com. Let's build something awesome together!
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=pankajrawat.pankajrawat)
 
 Let's write code that changes the world! 🌍
