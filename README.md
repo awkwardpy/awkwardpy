@@ -8,7 +8,7 @@ I'm not just a student; I'm an aspiring tech enthusiast and coding wizard based 
 
 🚀 **What I Do:** I weave lines of code into digital magic and create solutions that make the world a better place, one project at a time.
 
-🎓 **Education:** Currently pursuing my degree in Computer Science.
+🎓 **Education:** Currently pursuing my diploma in IT.
 
 🌟 **Passion:** Turning coffee into code and dreams into reality.
 
