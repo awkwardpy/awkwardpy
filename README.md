@@ -18,7 +18,7 @@ I'm not just a student; I'm an aspiring tech enthusiast and coding wizard based 
 
 💬 **Let's Connect:** I'm not just about code; I'm all ears for great conversations and collaborations. Reach out to me:
 
-- Twitter: [@pankajrawat_](https://twitter.com/coder_af)
+- Twitter: [@awkwardpy](https://twitter.com/coder_af)
 - LinkedIn: [Pankaj Rawat](https://www.linkedin.com/in/pankaj-rawat/)
 - Instagram: [@awkwardpy](https://www.instagram.com/awkwardpy/)
 - Facebook: [@awkwardpy](https://www.facebook.com/awkwardpy/)
